@@ -1,2 +1,5 @@
-# My-Translations
-这里存放着我 95% 的 Minecraft 插件翻译成果！
+- Minecraft 插件翻译文档 (EN -> ZH_cn)
+- Minecraft Plugin Translations (EN -> ZH_cn)
+-
+- 这里存放着我 95% 的简体中文翻译文档！
+- About 95% of my plugin translations are archived here!
